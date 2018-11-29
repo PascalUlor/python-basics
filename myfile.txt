@@ -1,0 +1,7 @@
+Line1
+pear
+apple
+orange
+mandarin
+watermelon
+pomegranate

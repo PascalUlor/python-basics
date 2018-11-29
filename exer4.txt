@@ -1,0 +1,4 @@
+Your temp is 50.0 you are good
+Your temp is -4.0 you are good
+Your temp is -488.20000000000005 you are good
+Your temp is 212.0 you are good

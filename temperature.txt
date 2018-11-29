@@ -1,0 +1,4 @@
+Your temp is 10°C you are good and50.0°F
+Your temp is -20°C you are good and-4.0°F
+Your temp is -289°C  it is not good
+Your temp is 100°C you are good and212.0°F
